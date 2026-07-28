@@ -2,6 +2,7 @@ payload:
   - '+.alchemy.com'
   - '+.alpinelinux.org'
   - '+.arweave.net'
+  - '+.ar-io.net'
   - '+.grafana.com'
   - '+.langfuse.com'
   - '+.viewblock.io'
