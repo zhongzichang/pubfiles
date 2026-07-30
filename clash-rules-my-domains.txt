@@ -2,6 +2,7 @@ payload:
   - '+.alchemy.com'
   - '+.alpinelinux.org'
   - '+.ao-testnet.xyz'
+  - '+.ardrive.io'
   - '+.arweave.net'
   - '+.ar-io.net'
   - '+.duckdns.org'
