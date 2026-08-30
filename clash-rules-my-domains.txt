@@ -6,6 +6,7 @@ payload:
   - '+.arweave.net'
   - '+.ar-io.net'
   - '+.duckdns.org'
+  - '+.getmonero.org'
   - '+.grafana.com'
   - '+.langfuse.com'
   - '+.okx.com'
