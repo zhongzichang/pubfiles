@@ -9,6 +9,7 @@ payload:
   - '+.getmonero.org'
   - '+.grafana.com'
   - '+.langfuse.com'
+  - '+.launchpad.net'
   - '+.okx.com'
   - '+.redstone.finance'
   - '+.viewblock.io'
