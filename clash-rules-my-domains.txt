@@ -1,4 +1,5 @@
 payload:
+  - 'gost.run'
   - '+.alchemy.com'
   - '+.alpinelinux.org'
   - '+.ao-testnet.xyz'
