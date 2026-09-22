@@ -10,6 +10,7 @@ payload:
   - '+.grafana.com'
   - '+.langfuse.com'
   - '+.launchpad.net'
+  - '+.obsidian.md'
   - '+.okx.com'
   - '+.redstone.finance'
   - '+.viewblock.io'
