@@ -6,6 +6,7 @@ payload:
   - '+.ardrive.io'
   - '+.arweave.net'
   - '+.ar-io.net'
+  - 'discord.gg'
   - '+.duckdns.org'
   - '+.getmonero.org'
   - '+.grafana.com'
