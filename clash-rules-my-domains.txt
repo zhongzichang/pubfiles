@@ -17,5 +17,6 @@ payload:
   - '+.obsidian.md'
   - '+.okx.com'
   - '+.redstone.finance'
+  - '+.requestly.io'
   - '+.viewblock.io'
   - '+.virdpool.com'
