@@ -6,6 +6,7 @@ payload:
   - '+.ao-testnet.xyz'
   - '+.ardrive.io'
   - '+.arweave.net'
+  - '+.arweavehub.com'
   - '+.ar-io.net'
   - '+.browserstack.com'
   - 'discord.gg'
