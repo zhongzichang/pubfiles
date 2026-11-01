@@ -8,6 +8,7 @@ payload:
   - '+.arweave.net'
   - '+.arweavehub.com'
   - '+.ar-io.net'
+  - '+.audio.com'
   - '+.browserstack.com'
   - 'discord.gg'
   - '+.duckdns.org'
